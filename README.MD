@@ -1,5 +1,7 @@
 # iTerm2 ZModem File Transfer Configuration
 
+中文说明：[README_ZH.MD](README_ZH.MD)
+
 On macOS, configure iTerm2 with ZModem protocol to enable convenient file upload and download operations with remote servers. No need for additional FTP or SCP commands - simply use `rz` and `sz` commands directly in the terminal to complete file transfers.
 
 ## Features
